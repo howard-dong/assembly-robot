@@ -10,7 +10,7 @@ int const EXTEND_LIMIT = -170;
 int const EXTEND_SPEED = -5;
 int const EXTEND_DELAY = 50;
 int const ROTATE_LIMIT = 70;
-int const	ROTATE_SPEED_D = 2;
+int const ROTATE_SPEED_D = 2;
 int const ROTATE_SPEED_U = -5;
 
 int const THICKNESS = 2; // color strip thickness so robot can center on strip
